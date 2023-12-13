@@ -1,4 +1,4 @@
-# Respuestas a Preguntas de Programación en C#
+# Preguntas Asignadas
 
 ## 1. Diferencia entre Variable y Propiedad
 Una variable es un espacio de almacenamiento temporal o permanente en un programa, mientras que una propiedad es una forma de encapsular el acceso a los campos de una clase, donde se puede acceder y modificar mediante un get y un set.
