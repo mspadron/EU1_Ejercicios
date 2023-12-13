@@ -1,0 +1,14 @@
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\bin\Debug\net8.0\EU1_Ejercicio1.exe
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\bin\Debug\net8.0\EU1_Ejercicio1.deps.json
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\bin\Debug\net8.0\EU1_Ejercicio1.runtimeconfig.json
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\bin\Debug\net8.0\EU1_Ejercicio1.dll
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\bin\Debug\net8.0\EU1_Ejercicio1.pdb
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\obj\Debug\net8.0\EU1_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\obj\Debug\net8.0\EU1_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\obj\Debug\net8.0\EU1_Ejercicio1.AssemblyInfo.cs
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\obj\Debug\net8.0\EU1_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\obj\Debug\net8.0\EU1_Ejercicio1.dll
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\obj\Debug\net8.0\refint\EU1_Ejercicio1.dll
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\obj\Debug\net8.0\EU1_Ejercicio1.pdb
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\obj\Debug\net8.0\EU1_Ejercicio1.genruntimeconfig.cache
+C:\Users\MATIAS\Desktop\ESPE\Quinto Semestre\Web Avanzada\ExamenU1\Ejercicio1\EU1_Ejercicio1\EU1_Ejercicio1\obj\Debug\net8.0\ref\EU1_Ejercicio1.dll
